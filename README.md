@@ -1,4 +1,4 @@
-#Keil uVision template project for Apollo2 Microcontroller 
+# Keil uVision template project for Apollo2 Microcontroller 
 
 This repository contains an easy to use template for developing using the Keil uVision IDE for the Apollo2 microcontroller.
 
